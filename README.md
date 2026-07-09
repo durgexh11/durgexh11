@@ -1,242 +1,88 @@
-<div align="center">
+<h1 align="center">Hey, I'm Durgesh 👋</h1>
+<h3 align="center">Building things with code, one commit at a time.</h3>
 
-<!-- ================= HERO BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Durgesh%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Premium%20Web%20Apps&descAlignY=58&descSize=18" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=SY+B.Com+(Computer+Application)+student;Preparing+for+MAH-MCA-CET;Building+full-stack+web+projects;MERN+%7C+Next.js+%7C+Supabase+%7C+TypeScript" alt="Typing SVG" />
+</p>
 
-<!-- ================= TYPING SVG ================= -->
-<a href="https://github.com/durgexh11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer;React+%2B+TypeScript+Developer;Building+Premium+Web+Apps;Supabase+%26+Node.js+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://portfolio.utkrsh.online/"><img src="https://img.shields.io/badge/Portfolio-visit-2EA043?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/durgexh11/"><img src="https://img.shields.io/badge/LeetCode-durgexh11-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
-<br/>
+---
 
-<a href="mailto:durgexh11@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="28" />
-</a>
-&nbsp;
-<a href="https://discord.gg/durgexh11">
-  <img src="https://skillicons.dev/icons?i=discord" height="28" />
-</a>
-&nbsp;
-<a href="https://github.com/durgexh11">
-  <img src="https://skillicons.dev/icons?i=github" height="28" />
-</a>
+### 🧑‍💻 About Me
 
-</div>
+- 🎓 Currently pursuing **SY B.Com (Computer Application)** at M.S.G JR College, Malegaon
+- 📚 Preparing for the **MAH-MCA-CET** entrance exam to pursue an MCA degree
+- 🛠️ Build personal and freelance-adjacent software projects independently
+- 🤖 Use AI coding tools extensively to move fast and ship
+- 🌱 Currently exploring: React/TypeScript, Supabase, and full-stack app architecture
 
-<br/>
+---
 
-<!-- ================= ABOUT ME ================= -->
-## 👨‍💻 About Me
+### 🚀 Projects
 
-```ts
-const durgesh = {
-  location: "India 🇮🇳",
-  role: "Full Stack Developer",
-  focus: "React · TypeScript · Supabase · Node.js",
-  goal: "Become a professional Software Engineer & build premium SaaS products",
-  funFact: "I ship side projects faster than I finish coffee ☕",
-};
-```
+| Project | Description |
+|---|---|
+| **[Redbloom](https://github.com/durgexh11)** | Hand gesture-controlled flower bloom web experience, built with MediaPipe Hands |
+| **Cafe Yolo Malegaon** | Production website for a local café — React/TypeScript, WhatsApp pre-booking flow |
+| **LinkFlex** | Link-in-bio app with 5 themes, glassmorphism/neon UI, drag-and-drop layout editor |
+| **BestBuyHub** | Dark-themed tech product discovery/affiliate platform for the Indian market |
+| **GullyScore Pro** | Live cricket scoring SaaS — ball-by-ball scoring, real-time viewer page |
+| **Handy AI** | Gesture-controlled web app with Play, Shapes & Write modes using MediaPipe Hands |
+| **WebKit Jerseys** | Football jersey e-commerce site with a custom admin dashboard |
 
-I'm a self-taught full stack developer who loves turning ideas into clean, production-ready products — from cafe websites to fantasy sports platforms. I care deeply about UI polish, performance, and writing code that feels good to read.
+---
 
-<br/>
+### 🛠️ Tech Stack
 
-<!-- ================= CURRENT FOCUS ================= -->
-## 🎯 Current Focus
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-<table>
-<tr>
-<td valign="top" width="33%">
+---
 
-### 📚 Learning
-- React (advanced patterns)
-- TypeScript
-- Supabase
-- Node.js
-- Backend Development
+### 📊 LeetCode Stats
 
-</td>
-<td valign="top" width="33%">
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/durgexh11?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="durgexh11's LeetCode Stats" />
+</p>
 
-### 🛠️ Working On
-- YOLO Cafe — premium cafe website
-- LinkFlex — link-in-bio platform
-- CardFlex — fantasy football platform
+---
 
-</td>
-<td valign="top" width="33%">
+### 💻 GitHub Stats
 
-### 🚀 Goals
-- Become a professional Software Engineer
-- Build premium, polished SaaS products
-- Contribute to open source
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=durgexh11&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgexh11&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgexh11&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
-<br/>
+---
 
-<!-- ================= TECH STACK ================= -->
-## 🧩 Tech Stack
+### 📫 Connect with me
 
-<div align="center">
+<p align="center">
+  <a href="https://portfolio.utkrsh.online/"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/durgexh11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/durgexh11/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,php,html,css" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,mysql" />
-
-<br/><br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
-
-</div>
-
-<br/>
-
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=durgexh11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=67E8F9&text_color=c9d1d9&ring_color=A78BFA" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgexh11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=durgexh11&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA" />
-
-</div>
-
-<br/>
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-## 📈 GitHub Activity
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=durgexh11&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=67E8F9&point=ffffff&area=true&area_color=302B63" />
-</div>
-
-<br/>
-
-<!-- ================= TROPHIES ================= -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=durgexh11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
-</div>
-
-<br/>
-
-<!-- ================= SNAKE ANIMATION ================= -->
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/durgexh11/durgexh11/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> Auto-generated every 24 hours via the GitHub Actions workflow below. See [Setup Instructions](#-setup-instructions) for placement.
-
-<br/>
-
-<!-- ================= FEATURED PROJECTS ================= -->
-## 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ☕ YOLO Cafe
-Premium cafe website with a warm, elegant UI — built with React &amp; TypeScript, featuring WhatsApp-based pre-booking and real social integration.
-
-`React` `TypeScript` `Tailwind`
-
-</td>
-<td width="50%">
-
-### 🔗 LinkFlex
-A modern link-in-bio platform with drag-and-drop customization, multiple themes, and a glassmorphism/neon aesthetic.
-
-`React` `Supabase` `shadcn/ui`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 WebKit Store
-A football jersey e-commerce website with a full admin dashboard for product, sales, and content management.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%">
-
-### ⚽ CardFlex
-A fantasy football platform with virtual currency, XP rewards, and real league stats from EPL &amp; La Liga.
-
-`React` `Supabase` `Node.js`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ================= DEV QUOTE ================= -->
-<div align="center">
-
-## 💭 Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<!-- ================= VISITOR COUNTER ================= -->
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=durgexh11&label=Profile%20Views&color=A78BFA&style=flat)
-
-</div>
-
-<br/>
-
-<!-- ================= CONNECT ================= -->
-<div align="center">
-
-## 🤝 Let's Connect
-
-<a href="mailto:durgexh11@gmail.com">
-  <img src="https://img.shields.io/badge/Email-durgexh11%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://discord.gg/durgexh11">
-  <img src="https://img.shields.io/badge/Discord-Join-67E8F9?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://github.com/durgexh11">
-  <img src="https://img.shields.io/badge/GitHub-durgexh11-A78BFA?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ================= FOOTER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=durgexh11&style=flat-square&color=2EA043" alt="Profile views" />
+</p>
