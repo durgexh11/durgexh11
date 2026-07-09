@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- ================= HERO BANNER ================= -->
@@ -28,7 +27,7 @@
 <br/>
 
 <!-- ================= ABOUT ME ================= -->
-## 🪩 About Me
+## 👨‍💻 About Me
 
 ```ts
 const durgesh = {
