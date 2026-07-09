@@ -20,6 +20,7 @@
 - 💻 I love building **full stack web apps** — from e-commerce stores to utility tools
 - 🧠 Currently sharpening my DSA on **LeetCode** — Rank **379,047** globally, Contest Rating **1681** (Top 15.21%)
 - 🌱 Currently exploring **Cloud Computing**
+- ⚡ Fun fact: I once solved my way to a **128-day streak** without breaking 😤
 
 <br/>
 
@@ -34,8 +35,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgexh11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffa116&icon_color=ef4743" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgexh11&theme=radical&hide_border=true&background=0d1117&ring=ffa116&fire=ef4743" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=durgexh11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffa116&icon_color=ef4743&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=durgexh11&theme=radical&hide_border=true&background=0d1117&ring=ffa116&fire=ef4743&currStreakLabel=ffa116" width="48%" />
 </p>
 
 <p align="center">
@@ -47,7 +48,7 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-card.herokuapp.com/?username=durgexh11&theme=dark" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/durgexh11?theme=dark&font=Baloo%202&ext=heatmap" width="70%" />
 </p>
 
 <p align="center">
@@ -67,14 +68,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgexh11&theme=react-dark&bg_color=0d1117&color=ffa116&line=ef4743&point=f0f6fc&hide_border=true" width="90%" />
-</p>
 
 <br/>
 
