@@ -48,7 +48,7 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/durgexh11?theme=dark&font=Baloo%202&ext=heatmap" width="70%" />
+  <img src="https://leetcode-stats-six.vercel.app/?username=durgexh11&theme=dark" width="70%" />
 </p>
 
 <p align="center">
