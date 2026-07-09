@@ -2,7 +2,7 @@
 <h3 align="center">Building things with code, one commit at a time.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=SY+B.Com+(Computer+Application)+student;Preparing+for+MAH-MCA-CET;Building+full-stack+web+projects;MERN+%7C+Next.js+%7C+Supabase+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=BCA+Student;Preparing+for+MAH-MCA-CET;Building+full-stack+web+projects;MERN+%7C+Next.js+%7C+Supabase+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Currently pursuing **SY B.Com (Computer Application)** at M.S.G JR College, Malegaon
+- 🎓 Currently pursuing **BCA (Bachelor of Computer Applications)** at M.S.G JR College, Malegaon
 - 📚 Preparing for the **MAH-MCA-CET** entrance exam to pursue an MCA degree
 - 🛠️ Build personal and freelance-adjacent software projects independently
 - 🤖 Use AI coding tools extensively to move fast and ship
