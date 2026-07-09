@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Competitive Programmer | Cloud & IT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+DSA;349%2B+Problems+Solved+on+LeetCode;Building+Cool+Stuff+One+Commit+at+a+Time" alt="Typing SVG" />
+  ⚡ Backend • Frontend • DSA &nbsp;|&nbsp; 349+ Problems Solved on LeetCode &nbsp;|&nbsp; Building Cool Stuff, One Commit at a Time
 </p>
 
 <p align="center">
@@ -34,25 +34,34 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgexh11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffa116&icon_color=ef4743&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=durgexh11&theme=radical&hide_border=true&background=0d1117&ring=ffa116&fire=ef4743&currStreakLabel=ffa116" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgexh11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffa116" width="48%" />
-</p>
+| 📌 Metric | Value |
+|:---:|:---:|
+| **Full Stack Focus** | Backend • Frontend |
+| **Primary Languages** | C++, Java, JavaScript |
+| **Currently Learning** | ☁️ Cloud Computing |
+
+</div>
 
 <br/>
 
 ## 🧩 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=durgexh11&theme=dark" width="70%" />
-</p>
+<div align="center">
+
+| 🏆 Metric | Value |
+|:---:|:---:|
+| **Problems Solved** | 349 |
+| **Contest Rating** | 1681 |
+| **Global Rank** | 138,672 |
+| **Percentile** | Top 15.21% |
+| **Rank (Overall)** | 379,047 |
+
+</div>
 
 <p align="center">
-  <b>349</b> Problems Solved &nbsp;|&nbsp; Contest Rating <b>1681</b> &nbsp;|&nbsp; Global Rank <b>138,672</b> &nbsp;|&nbsp; Top <b>15.21%</b>
+  <a href="https://leetcode.com/durgexh11">🔗 View Live LeetCode Profile</a>
 </p>
 
 <br/>
@@ -81,5 +90,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=durgexh11&color=ffa116&style=flat-square&label=Profile+Views" />
+  <i>Thanks for stopping by! ⭐ this profile if you liked it.</i>
 </p>
