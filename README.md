@@ -20,7 +20,6 @@
 - 💻 I love building **full stack web apps** — from e-commerce stores to utility tools
 - 🧠 Currently sharpening my DSA on **LeetCode** — Rank **379,047** globally, Contest Rating **1681** (Top 15.21%)
 - 🌱 Currently exploring **Cloud Computing**
-- ⚡ Fun fact: I once solved my way to a **128-day streak** without breaking 😤
 
 <br/>
 
