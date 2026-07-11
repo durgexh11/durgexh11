@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  ⚡ Backend • Frontend • DSA &nbsp;|&nbsp; 349+ Problems Solved on LeetCode &nbsp;|&nbsp; Building Cool Stuff, One Commit at a Time
+  ⚡ Backendd • Frontend • DSA &nbsp;|&nbsp; 349+ Problems Solved on LeetCode &nbsp;|&nbsp; Building Cool Stuff, One Commit at a Time
 </p>
 
 <p align="center">
